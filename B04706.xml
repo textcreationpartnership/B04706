@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarique ode by way of panegyrick, upon the glorious conquests of magnanimous K. William in the campagne of 92. Presented to him at his return.</title>
+            <author>Philanax.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04706</idno>
+            <idno type="STC">Wing P2252</idno>
+            <idno type="STC">ESTC R181802</idno>
+            <idno type="EEBO-CITATION">52614837</idno>
+            <idno type="OCLC">ocm 52614837</idno>
+            <idno type="VID">176027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176027)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2759:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarique ode by way of panegyrick, upon the glorious conquests of magnanimous K. William in the campagne of 92. Presented to him at his return.</title>
+                  <author>Philanax.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Philanax.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: creased, print show-through with loss of text.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:176027:1"/>
+            <!-- PDF PAGE 34 -->
+            <head>
+               <hi>A Pindarique Ode</hi> By way of <hi>Panegyrick,</hi> upon the Glorious Conqueſts of Magnanimous K. <hi>WILLIAM</hi> in the Campagne of 92. Preſented to him at his Return.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>LET uhe <hi>Parnaſſian</hi> immmortal Quire</l>
+               <l>On this Auguſt Occaſion tune their choyceſt Lyre;</l>
+               <l>And inſpire each Poets breaſt</l>
+               <l>With Raptures more Heroick far,</l>
+               <l>Than <hi>Taſſo</hi>'s, <hi>Homer</hi>'s, or great <hi>Virgil</hi>'s are;</l>
+               <l>Let them club all their Furies into one,</l>
+               <l>By none of theſe alone</l>
+               <l>This Soveraign Subject can be worthily expreſs'd.</l>
+               <l>Let loud-mouth'd <hi>Fame</hi> her ſhrilleſt Trumpet take,</l>
+               <l>And blow till both her big-ſwoln Cheeks and Lungs do ake,</l>
+               <l>And ſtartle the World both far and near,</l>
+               <l>Th' aſtoniſhing Noiſe to hear.</l>
+               <l>Let her brisk ſounds thorough the trembling Sky</l>
+               <l>To Heavens High-arch't Roof upward fly,</l>
+               <l>And many Stories higher;</l>
+               <l>And thence an Univerſal Eccho make,</l>
+               <l>Able to ſtun all <hi>Europe,</hi> and make <hi>France</hi> to quake.</l>
+               <l>Proud <hi>France</hi> that dares to vye</l>
+               <l>With Royal <hi>WILLIAMS</hi> matchleſs power and deepeſt policy.</l>
+               <l>The Subject is ſo Glorious and High,</l>
+               <l>That, as he did his Foes, it makes Wit proſtrate lye.</l>
+               <l>
+                  <hi>Uictory,</hi> compleat <hi>Victory,</hi>
+               </l>
+               <l>
+                  <hi>Victories</hi> crowding one another ſo,</l>
+               <l>As if they did together grow</l>
+               <l>In a continuate Row,</l>
+               <l>Which mow'd whole Armies down, and did annihilate the Foe.</l>
+               <l>Theſe, theſe are the great Themes I ſing,</l>
+               <l>Th' unheard of Victories of Great <hi>Britains</hi> King,</l>
+               <l>Renowned <hi>WILLIAM,</hi> whoſe All-conquering hand,</l>
+               <l>Has <hi>France</hi> ſubdu'd, ſav'd and enrich't our happy Land.</l>
+            </lg>
+            <pb n="2" facs="tcp:176027:2"/>
+            <!-- PDF PAGE 35 -->
+            <lg n="2">
+               <head>II.</head>
+               <l>Now had the wanton Spring begun,</l>
+               <l>To teem with the ſweet Iſſue of the youthful Sun,</l>
+               <l>When <hi>WILLIAM, Europes</hi> Sword, and <hi>Englands</hi> Shield,</l>
+               <l>With Numerous Armies <hi>took</hi> and <hi>ſhook</hi> the Field.</l>
+               <l>A Hundred Thouſand bold and daring Hearts,</l>
+               <l>To whom his ſingle Valour Warlike Heat imparts,</l>
+               <l>With ſtrutting Marches did all over</l>
+               <l>Glad <hi>Flanders</hi> cover.</l>
+               <l>
+                  <hi>France</hi> heard the Noiſe of this great Hoaſt,</l>
+               <l>And quak't for fear,</l>
+               <l>King <hi>WILLIAM</hi> ſhould come near,</l>
+               <l>Whoſe Valour they had try'd too often to their Coſt.</l>
+               <l>Yet to preſerve an ill got Name,</l>
+               <l>Something they muſt do for ſhame.</l>
+               <l>Towards him King <hi>LEWIS</hi> in a trembling Fright</l>
+               <l>Crept ſlowly, but yet durſt not ſight.</l>
+               <l>To ſave his Credit he did feign</l>
+               <l>He could not paſs <hi>Mehaigne.</hi>
+               </l>
+               <l>Poor <hi>Luxemburg</hi> ſtood ſtill and gaz'd, mean while,</l>
+               <l>Great unconcerned WILLIAM at their Cowardiſe did ſmile.</l>
+               <l>But when they ſaw him move, and's Colours wave,</l>
+               <l>His very ſight the Vict'ry gave;</l>
+               <l>Away ran all the <hi>French,</hi> each ſtriving one to ſave.</l>
+               <l>But, as the Coward <hi>Beſſus,</hi> who for fear did fly,</l>
+               <l>By chance ran on the Foo and got the Victory;</l>
+               <l>So by ill Luck they in their Flight,</l>
+               <l>On poor <hi>Namur</hi> did light;</l>
+               <l>And for their ſhelter took the <hi>eaſie</hi> Town;</l>
+               <l>But Thanks to WILLIAM's Valour, not their own.</l>
+               <l>'Twas he that made them run,</l>
+               <l>And 'twas their Fear, not Courage, which the weak Town won.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>At firſt our Monarch's breaſt with Fury glow'd,</l>
+               <l>To ſee that Fools and Cowards often have</l>
+               <l>Far better Fortune than the Wiſe and Brave,</l>
+               <l>And to regain the Town he vow'd.</l>
+               <l>But noble <hi>Pity,</hi> which with fierce <hi>Diſdain</hi>
+               </l>
+               <l>In his great Soul <hi>alternately</hi> did reign,</l>
+               <l>Did take its turn, and the too harſh Reſolve <hi>recall'd</hi> again.</l>
+               <l>Great Minds are ſtill moſt <hi>Merciful,</hi> and ſo</l>
+               <l>When WILLIAM ſaw the ſad Caſe of his helpleſs Foe,</l>
+               <pb n="3" facs="tcp:176027:2"/>
+               <!-- PDF PAGE 35 -->
+               <l>Let them ſtill hold the Town, ſaid he,</l>
+               <l>The Free Gift of our Generoſity:</l>
+               <l>I will not envy them their Lurking-hole,</l>
+               <l>Let them enjoy't without Controul.</l>
+               <l>I'le beat them in the Field; This, this Deſign</l>
+               <l>Is only worthy to be called <hi>mine.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>He ſought their Army long time round about,</l>
+               <l>But could not find them out,</l>
+               <l>At length his piercing Eye</l>
+               <l>Made clearer by quick ſighted policy,</l>
+               <l>Diſcover'd how they did near <hi>Steen-kerk</hi> ly;</l>
+               <l>With brakes and buſhes ſhrowded</l>
+               <l>And with thick blinds of Woods beclouded,</l>
+               <l>Juſt as the Knights-bridge Army lay.</l>
+               <l>When the two Monarchs <hi>
+                     <g ref="char:V">Ʋ</g>ſh.</hi> and <hi>Phys.</hi> the <hi>Brentford</hi> Realms did ſway.</l>
+               <l>So, in her form finding the Timorous Hare</l>
+               <l>Or as <hi>Moſs</hi> caught his Mare,</l>
+               <l>He ſet upon them, who ſtraightway begun</l>
+               <l>With nimble Feet and fainting Hearts to run,</l>
+               <l>But (Oh the blind Guide Fortune!) like Cow'rd <hi>Beſſus</hi> they,</l>
+               <l>Did again quite miſtake their way,</l>
+               <l>And, thinking to run home, on us they fell,</l>
+               <l>And, by running over us, knock't us down pell-mell;</l>
+               <l>Not that they hurt a Man of us in Fight.</l>
+               <l>But Mortal Power could not reſiſt their fierce and deſperate <hi>Flight.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Yet Glory's Thirſt ſomething to ſlake,</l>
+               <l>Let us, cries WILLIAM, at leaſt <hi>Ipres</hi> take,</l>
+               <l>That all the World may ſay,</l>
+               <l>We can take Towns as well as they.</l>
+               <l>The powerful Word ſcarce ſpoke, our winged Troops did fly,</l>
+               <l>And to the Town approached nigh.</l>
+               <l>This ſtruck the <hi>French</hi> with more than Panick fear;</l>
+               <l>
+                  <hi>Boufflers</hi> they ſent,</l>
+               <l>The wiſe-laid Project to prevent,</l>
+               <l>And in our Army's way,</l>
+               <l>
+                  <hi>French</hi> Blocks they lay.</l>
+               <l>This did Great WILLIAM's high Thoughts fire,</l>
+               <l>To conceive Attempts ſtill higher.</l>
+               <l>
+                  <hi>Dunkirk,</hi> the Chriſtian <hi>Argiers</hi> (if at all</l>
+               <l>We the <hi>French</hi> may <hi>Chriſtians</hi> call)</l>
+               <pb n="4" facs="tcp:176027:3"/>
+               <!-- PDF PAGE 36 -->
+               <l>
+                  <hi>Dunkirk</hi> ſhall down, ſaid he, the Pyrates Neſt</l>
+               <l>Beſieg'd, bomb'd, ſcal'd, we from their hands will wreſt.</l>
+               <l>This ſpoke, Bombs, Canons, by commanding Charm</l>
+               <l>Were brought from <hi>Maeſtricht,</hi> and our Troops did ſwarm</l>
+               <l>Towards the damn'd place whoſe Doom our Prince had paſt.</l>
+               <l>(And Fate ne're ſpoke more <hi>ſure</hi> Words than are <hi>His,</hi>
+               </l>
+               <l>Nor did his wiſe <hi>Aym</hi> ever <hi>miſs.</hi>)</l>
+               <l>Yet ſtill his <hi>Noble Mercy</hi> did again</l>
+               <l>With his <hi>Dread Anger</hi> ſtruggle amain,</l>
+               <l>And again got the Victory at laſt.</l>
+               <l>For, ſeeing the fearful Cowards hye</l>
+               <l>New Forts to rear where they ſecure might lye,</l>
+               <l>He generouſly did ſcorn</l>
+               <l>T' attacque poor Wretches trembling and forlorn;</l>
+               <l>So, back to ſtrong <hi>Maeſtricht</hi> Wars Thunderbolts were born.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Wherefore, at our Victorious King's Auſpicious Return</l>
+               <l>Let all the Sky with <hi>Bonefires</hi> burn,</l>
+               <l>The <hi>Bells</hi> ring lofty Welcomes, and the <hi>Tower</hi>
+               </l>
+               <l>With thrice-diſcharged <hi>Peals</hi> expreſs his <hi>Thundering</hi> Power,</l>
+               <l>Let Loyal Citizens <hi>Pyramids</hi> invent,</l>
+               <l>Such as may over-look their <hi>Monument.</hi>
+               </l>
+               <l>
+                  <hi>Mildneſs</hi> in <hi>War,</hi>
+               </l>
+               <l>(As Roſe that amongſt Byars grows</l>
+               <l>Far more ſweetly ſhows)</l>
+               <l>Is more Illuſtrious by far</l>
+               <l>Than uncompaſſionate Cruelty than none does ſpare.</l>
+               <l>And what more <hi>Gallant,</hi> what more <hi>Brave,</hi>
+               </l>
+               <l>Than when he could have <hi>kill'd</hi> All, All to <hi>ſave!</hi>
+               </l>
+               <l>He more than <hi>Worlds</hi> does conquer without Blood or Pain,</l>
+               <l>Who o're <hi>Himſelf</hi> does Conqueſt gain.</l>
+               <l>And he's more truly a Victor whoſe wiſe Skill</l>
+               <l>Can <hi>win</hi> Mens <hi>Minds,</hi> than he who does their <hi>Bodies kill.</hi>
+               </l>
+               <l>No doubt, but when 'tis underſtood,</l>
+               <l>Our Heroe is even to his <hi>worſt</hi> Foes ſo <hi>Gracious</hi> and ſo <hi>Good</hi>
+               </l>
+               <l>There can need no rough force of <hi>Arms,</hi>
+               </l>
+               <l>Where ſuch ſweet <hi>Kindneſs</hi> charms:</l>
+               <l>But by a Stratagem ſtrangely rare and new,</l>
+               <l>Attractive <hi>Meekneſs</hi> all his <hi>Foes</hi> will ſtraight <hi>ſubdue,</hi>
+               </l>
+               <l>Make his <hi>enamour'd</hi> Enemies for Peace <hi>ſue,</hi>
+               </l>
+               <l>And ſave our <hi>England</hi> precious <hi>Blood,</hi> and precious <hi>Money</hi> too.</l>
+            </lg>
+            <signed>Philanax.</signed>
+         </div>
+      </body>
+   </text>
+</TEI>
